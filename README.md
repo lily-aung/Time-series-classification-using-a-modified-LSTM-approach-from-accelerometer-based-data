@@ -2,7 +2,7 @@
 A comparative study for gait cycle detection
 
 # Background: 
-Gait event detection (GED) is an important aspect in identifying and interpretation a user’s gait to assess gait abnormalities and design intelligent assistive devices
+Gait event detection (GED) is an important aspect in identifying and interpretation a user’s gait to assess gait abnormalities and design intelligent assistive devices.
 
 # Research Question: 
 There is a need to develop robust GED models that can accurately detect various gait instances in different scenarios and environments. 
