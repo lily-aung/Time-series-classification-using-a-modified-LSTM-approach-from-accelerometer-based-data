@@ -13,3 +13,6 @@ This paper presents a novel method of detecting heel strikes (HS) and toe offs (
 # Results: 
 Performance of our modified model was found to be better than six state-of-the-art GED algorithms, with a median F1 score of 0.98 for Heel Strikes and 0.98 for Toe Offs in the scenario of steady walking in an indoor environment, and a median F1 score of 0.94 for Heel Strikes and 0.68 for Toe-offs in the scenario of walking and running in an outdoor environment. 
 Significance: This paper highlights the potential of the single proposed model to be an alternative to the six GED models in gait detection under various conditions.
+
+# Acknowledgment:
+We would like to thank Siddhartha Khandelwal of Halmstad University for sharing the MAREA gait database that is used in our experiments.
