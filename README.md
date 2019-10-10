@@ -17,5 +17,5 @@ Significance: This paper highlights the potential of the single proposed model t
 # Acknowledgment:
 We would like to thank Siddhartha Khandelwal of Halmstad University for sharing the MAREA gait database that is used in our experiments.
 
-# Publications
+# Publication
 Paper can be found [here](https://doi.org/10.1016/j.gaitpost.2019.09.007)
